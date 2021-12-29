@@ -1,4 +1,4 @@
-# Boilerplate (HTML)
+# Boilerplate (Flask)
 
 This project is a boilerplate for Flask powered dashboards. This required both yarn and python3.
 
@@ -9,7 +9,7 @@ It was bootstrapped with Create React App
 To use the boilerplate:
 
 ```
-git clone --depth=1 https://github.com/shahcompbio/viz-html-boilerplate.git <your project name>
+git clone --depth=1 https://github.com/shahcompbio/viz-flask-boilerplate.git <your project name>
 rm -r <your project name>/.git
 ```
 
